@@ -446,8 +446,7 @@ MIT License - See LICENSE file for details
 - Check GitHub issues
 
 ### Contact
-- GitHub: [Your Repository]
-- Email: [Your Email]
+- Email: priyadharshan505@gmai.com
 
 ---
 
@@ -456,3 +455,4 @@ MIT License - See LICENSE file for details
 **Status**: Production Ready
 
 Built with ❤️ using Flask and Leaflet.js
+
